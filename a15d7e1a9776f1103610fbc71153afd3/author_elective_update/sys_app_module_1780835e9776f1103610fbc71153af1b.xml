@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Trip Money Organizer">dadf7a1e9776f1103610fbc71153af7e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Participants</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_668688_trip_mone_participants</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_668688_trip_mone.trip_planner</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 14:56:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1780835e9776f1103610fbc71153af1b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Participants</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Trip Money Organizer" source="x_668688_trip_mone">a15d7e1a9776f1103610fbc71153afd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trip Money Organizer">a15d7e1a9776f1103610fbc71153afd3</sys_scope>
+        <sys_update_name>sys_app_module_1780835e9776f1103610fbc71153af1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 15:03:16</sys_updated_on>
+        <timeline_page/>
+        <title>Participants</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Trip Money Organizer">a15d7e1a9776f1103610fbc71153afd3</application>
+        <file_path/>
+        <instance_id>62f7de3bdb99c5101b813feb68961963</instance_id>
+        <instance_name>dev124448</instance_name>
+        <name>sys_app_module_1780835e9776f1103610fbc71153af1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Trip Money Organizer">dadf7a1e9776f1103610fbc71153af7e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Participants</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_668688_trip_mone_participants</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_668688_trip_mone.trip_planner</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-01 14:56:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1780835e9776f1103610fbc71153af1b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Participants</sys_name><sys_overrides/><sys_package display_value="Trip Money Organizer" source="x_668688_trip_mone">a15d7e1a9776f1103610fbc71153afd3</sys_package><sys_policy/><sys_scope display_value="Trip Money Organizer">a15d7e1a9776f1103610fbc71153afd3</sys_scope><sys_update_name>sys_app_module_1780835e9776f1103610fbc71153af1b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-01 15:03:16</sys_updated_on><timeline_page/><title>Participants</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1405951462</payload_hash>
+        <record_name>Participants</record_name>
+        <reverted_from/>
+        <source>615d7e1a9776f1103610fbc71153afd7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 15:03:16</sys_created_on>
+        <sys_id>c6028bde9776f1103610fbc71153af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c25e7c8f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 15:03:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ce028bde8776f11024452517b33f1e06</update_guid>
+        <update_guid_history>ce028bde8776f11024452517b33f1e06:-1405951462,64f10bde5f76f110c6101ebd7ba6ebcf:27018882,1f80835e5176f110a12de62f5151111c:535323936</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Participants">0403539697f6f1103610fbc71153af60</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 16:17:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>52bdf847e78449dc9c3aff4127075ee4</sys_id>
+        <sys_metadata>1780835e9776f1103610fbc71153af1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Participants</sys_name>
+        <sys_package display_value="Trip Money Organizer" source="x_668688_trip_mone">a15d7e1a9776f1103610fbc71153afd3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Trip Money Organizer">a15d7e1a9776f1103610fbc71153afd3</sys_scope>
+        <sys_scope_delete display_value="">23fc1ff2a97346998bf90f8e2c540a31</sys_scope_delete>
+        <sys_update_name>sys_app_module_1780835e9776f1103610fbc71153af1b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1780835e9776f1103610fbc71153af1b">c6028bde9776f1103610fbc71153af07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 16:17:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
