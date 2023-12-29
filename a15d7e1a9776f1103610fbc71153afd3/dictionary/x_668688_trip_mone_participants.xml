@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c1439b5697f6f1103610fbc71153af07" label="Participants" max_length="40" name="x_668688_trip_mone_participants" type="collection">
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Trips Name" max_length="32" name="trips_name" reference="x_668688_trip_mone_trips" type="reference"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="trips_name"/>
+        </index>
+    </element>
+</database>

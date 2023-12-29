@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8fe397d697f6f1103610fbc71153af93" label="Expenses" max_length="40" name="x_668688_trip_mone_expenses" type="collection">
+        <element label="Amount" max_length="20" name="amount" type="currency"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element choice="1" label="For Whom" max_length="4000" name="for_whom" reference="x_668688_trip_mone_participants" type="glide_list">
+            <choice/>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Paid by" max_length="32" name="paid_by" reference="x_668688_trip_mone_participants" type="reference"/>
+        <element display="true" label="Title" max_length="40" name="title" type="string"/>
+        <element label="Trip Name" max_length="32" name="trip_name" reference="x_668688_trip_mone_trips" type="reference"/>
+        <index name="index">
+            <element name="paid_by"/>
+        </index>
+        <index name="index2">
+            <element name="trip_name"/>
+        </index>
+    </element>
+</database>

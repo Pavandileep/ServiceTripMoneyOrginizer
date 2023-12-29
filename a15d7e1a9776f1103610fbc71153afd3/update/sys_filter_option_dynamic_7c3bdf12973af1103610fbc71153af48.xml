@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_filter_option_dynamic">
+    <sys_filter_option_dynamic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for_default>true</available_for_default>
+        <available_for_filter>true</available_for_filter>
+        <available_for_ref_qual>true</available_for_ref_qual>
+        <field_type/>
+        <label>Select Participants</label>
+        <order>100</order>
+        <roles/>
+        <script/>
+        <script_reference_id/>
+        <script_reference_table>x_668688_trip_mone_participants</script_reference_table>
+        <sys_class_name>sys_filter_option_dynamic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-01 16:55:06</sys_created_on>
+        <sys_id>7c3bdf12973af1103610fbc71153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Select Participants</sys_name>
+        <sys_package display_value="Trip Money Organizer" source="x_668688_trip_mone">a15d7e1a9776f1103610fbc71153afd3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trip Money Organizer">a15d7e1a9776f1103610fbc71153afd3</sys_scope>
+        <sys_update_name>sys_filter_option_dynamic_7c3bdf12973af1103610fbc71153af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-01 16:55:06</sys_updated_on>
+        <table>x_668688_trip_mone_participants</table>
+        <table_containing_filter/>
+    </sys_filter_option_dynamic>
+</record_update>
